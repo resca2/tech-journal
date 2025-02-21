@@ -1,1 +1,1 @@
-hostname
+mgm01-emilie
